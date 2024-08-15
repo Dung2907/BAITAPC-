@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../API.Common/API.Common.csproj"/>
+    <ProjectReference Include="../API.DataAccess/API.DataAccess.csproj"/>
+    <ProjectReference Include="../API.Domain/API.Domain.csproj"/>
+  </ItemGroup>
+</Project>

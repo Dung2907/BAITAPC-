@@ -1,0 +1,14 @@
+D:\asp-projects\Example01.2\bin\Debug\net8.0\Example01.2.exe
+D:\asp-projects\Example01.2\bin\Debug\net8.0\Example01.2.deps.json
+D:\asp-projects\Example01.2\bin\Debug\net8.0\Example01.2.runtimeconfig.json
+D:\asp-projects\Example01.2\bin\Debug\net8.0\Example01.2.dll
+D:\asp-projects\Example01.2\bin\Debug\net8.0\Example01.2.pdb
+D:\asp-projects\Example01.2\obj\Debug\net8.0\Example01.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp-projects\Example01.2\obj\Debug\net8.0\Example01.2.AssemblyInfoInputs.cache
+D:\asp-projects\Example01.2\obj\Debug\net8.0\Example01.2.AssemblyInfo.cs
+D:\asp-projects\Example01.2\obj\Debug\net8.0\Example01.2.csproj.CoreCompileInputs.cache
+D:\asp-projects\Example01.2\obj\Debug\net8.0\Example01.2.dll
+D:\asp-projects\Example01.2\obj\Debug\net8.0\refint\Example01.2.dll
+D:\asp-projects\Example01.2\obj\Debug\net8.0\Example01.2.pdb
+D:\asp-projects\Example01.2\obj\Debug\net8.0\Example01.2.genruntimeconfig.cache
+D:\asp-projects\Example01.2\obj\Debug\net8.0\ref\Example01.2.dll
