@@ -1,0 +1,15 @@
+D:\asp-projects\BaoCao1\backend\API.DataAccess\bin\Debug\net8.0\TranAnhDung.API.DataAccess.deps.json
+D:\asp-projects\BaoCao1\backend\API.DataAccess\bin\Debug\net8.0\TranAnhDung.API.DataAccess.runtimeconfig.json
+D:\asp-projects\BaoCao1\backend\API.DataAccess\bin\Debug\net8.0\TranAnhDung.API.DataAccess.dll
+D:\asp-projects\BaoCao1\backend\API.DataAccess\bin\Debug\net8.0\TranAnhDung.API.DataAccess.pdb
+D:\asp-projects\BaoCao1\backend\API.DataAccess\obj\Debug\net8.0\TranAnhDung.API.DataAccess.csproj.AssemblyReference.cache
+D:\asp-projects\BaoCao1\backend\API.DataAccess\obj\Debug\net8.0\TranAnhDung.API.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp-projects\BaoCao1\backend\API.DataAccess\obj\Debug\net8.0\TranAnhDung.API.DataAccess.AssemblyInfoInputs.cache
+D:\asp-projects\BaoCao1\backend\API.DataAccess\obj\Debug\net8.0\TranAnhDung.API.DataAccess.AssemblyInfo.cs
+D:\asp-projects\BaoCao1\backend\API.DataAccess\obj\Debug\net8.0\TranAnhDung.API.DataAccess.csproj.CoreCompileInputs.cache
+D:\asp-projects\BaoCao1\backend\API.DataAccess\obj\Debug\net8.0\TranAnhDung.API.DataAccess.sourcelink.json
+D:\asp-projects\BaoCao1\backend\API.DataAccess\obj\Debug\net8.0\TranAnhDung.API.DataAccess.dll
+D:\asp-projects\BaoCao1\backend\API.DataAccess\obj\Debug\net8.0\refint\TranAnhDung.API.DataAccess.dll
+D:\asp-projects\BaoCao1\backend\API.DataAccess\obj\Debug\net8.0\TranAnhDung.API.DataAccess.pdb
+D:\asp-projects\BaoCao1\backend\API.DataAccess\obj\Debug\net8.0\TranAnhDung.API.DataAccess.genruntimeconfig.cache
+D:\asp-projects\BaoCao1\backend\API.DataAccess\obj\Debug\net8.0\ref\TranAnhDung.API.DataAccess.dll

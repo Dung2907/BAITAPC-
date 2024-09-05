@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\asp-projects\\Exercise03\\backend\\API\\wwwroot\\images\\1920.jpg",
+      "PackagePath": "staticwebassets\\images\\1920.jpg"
+    },
+    {
+      "Id": "D:\\asp-projects\\Exercise03\\backend\\API\\wwwroot\\images\\1_kbvn.jpg",
+      "PackagePath": "staticwebassets\\images\\1_kbvn.jpg"
+    },
+    {
+      "Id": "D:\\asp-projects\\Exercise03\\backend\\API\\wwwroot\\images\\240124193_3158144927752153_2646789250801248973_n.jpg",
+      "PackagePath": "staticwebassets\\images\\240124193_3158144927752153_2646789250801248973_n.jpg"
+    },
+    {
+      "Id": "D:\\asp-projects\\Exercise03\\backend\\API\\wwwroot\\images\\335882.jpg",
+      "PackagePath": "staticwebassets\\images\\335882.jpg"
+    },
+    {
+      "Id": "D:\\asp-projects\\Exercise03\\backend\\API\\wwwroot\\images\\5150x3433-px-grass-landscape-plants-trees-1398799.jpg",
+      "PackagePath": "staticwebassets\\images\\5150x3433-px-grass-landscape-plants-trees-1398799.jpg"
+    },
+    {
+      "Id": "D:\\asp-projects\\Exercise03\\backend\\API\\wwwroot\\images\\8-1636626311.jpg",
+      "PackagePath": "staticwebassets\\images\\8-1636626311.jpg"
+    },
+    {
+      "Id": "D:\\asp-projects\\Exercise03\\backend\\API\\wwwroot\\images\\BaiTap_NET Core_page-0001.jpg",
+      "PackagePath": "staticwebassets\\images\\BaiTap_NET Core_page-0001.jpg"
+    },
+    {
+      "Id": "D:\\asp-projects\\Exercise03\\backend\\API\\wwwroot\\images\\BaiTap_NET Core_page-0008.jpg",
+      "PackagePath": "staticwebassets\\images\\BaiTap_NET Core_page-0008.jpg"
+    },
+    {
+      "Id": "D:\\asp-projects\\Exercise03\\backend\\API\\wwwroot\\images\\BaiTap_NET Core_page-0025.jpg",
+      "PackagePath": "staticwebassets\\images\\BaiTap_NET Core_page-0025.jpg"
+    },
+    {
+      "Id": "D:\\asp-projects\\Exercise03\\backend\\API\\wwwroot\\images\\Republic-of-Gamers-4K-Wallpapers-1024x576.jpg",
+      "PackagePath": "staticwebassets\\images\\Republic-of-Gamers-4K-Wallpapers-1024x576.jpg"
+    },
+    {
+      "Id": "D:\\asp-projects\\Exercise03\\backend\\API\\wwwroot\\images\\download1.jpg",
+      "PackagePath": "staticwebassets\\images\\download1.jpg"
+    },
+    {
+      "Id": "D:\\asp-projects\\Exercise03\\backend\\API\\wwwroot\\images\\download2.jpg",
+      "PackagePath": "staticwebassets\\images\\download2.jpg"
+    },
+    {
+      "Id": "D:\\asp-projects\\Exercise03\\backend\\API\\wwwroot\\images\\images.jpg",
+      "PackagePath": "staticwebassets\\images\\images.jpg"
+    },
+    {
+      "Id": "D:\\asp-projects\\Exercise03\\backend\\API\\wwwroot\\images\\landscape-car-vehicle-Vintage-car-North-America-classic-land-vehicle-automotive-design-automobile-make-58353.jpg",
+      "PackagePath": "staticwebassets\\images\\landscape-car-vehicle-Vintage-car-North-America-classic-land-vehicle-automotive-design-automobile-make-58353.jpg"
+    },
+    {
+      "Id": "D:\\asp-projects\\Exercise03\\backend\\API\\wwwroot\\images\\templatemo-banner.png",
+      "PackagePath": "staticwebassets\\images\\templatemo-banner.png"
+    },
+    {
+      "Id": "D:\\asp-projects\\Exercise03\\backend\\API\\wwwroot\\images\\z3240189169085_b1db658ec0e1edf0c54d76989ce0114d.jpg",
+      "PackagePath": "staticwebassets\\images\\z3240189169085_b1db658ec0e1edf0c54d76989ce0114d.jpg"
+    },
+    {
+      "Id": "D:\\asp-projects\\Exercise03\\backend\\API\\wwwroot\\images\\z4289059500394_0af77630548f7e58654ab2b076ff55cc.jpg",
+      "PackagePath": "staticwebassets\\images\\z4289059500394_0af77630548f7e58654ab2b076ff55cc.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

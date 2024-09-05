@@ -140,3 +140,4 @@ D:\asp-projects\Example07\backend\obj\Debug\net8.0\refint\backend.dll
 D:\asp-projects\Example07\backend\obj\Debug\net8.0\backend.pdb
 D:\asp-projects\Example07\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 D:\asp-projects\Example07\backend\obj\Debug\net8.0\ref\backend.dll
+D:\asp-projects\Example07\backend\obj\Debug\net8.0\backend.sourcelink.json

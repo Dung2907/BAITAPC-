@@ -1,0 +1,13 @@
+D:\asp-projects\BaoCao1\backend\API.Common\bin\Debug\net8.0\TranAnhDung.API.Common.deps.json
+D:\asp-projects\BaoCao1\backend\API.Common\bin\Debug\net8.0\TranAnhDung.API.Common.dll
+D:\asp-projects\BaoCao1\backend\API.Common\bin\Debug\net8.0\TranAnhDung.API.Common.pdb
+D:\asp-projects\BaoCao1\backend\API.Common\obj\Debug\net8.0\TranAnhDung.API.Common.csproj.AssemblyReference.cache
+D:\asp-projects\BaoCao1\backend\API.Common\obj\Debug\net8.0\TranAnhDung.API.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp-projects\BaoCao1\backend\API.Common\obj\Debug\net8.0\TranAnhDung.API.Common.AssemblyInfoInputs.cache
+D:\asp-projects\BaoCao1\backend\API.Common\obj\Debug\net8.0\TranAnhDung.API.Common.AssemblyInfo.cs
+D:\asp-projects\BaoCao1\backend\API.Common\obj\Debug\net8.0\TranAnhDung.API.Common.csproj.CoreCompileInputs.cache
+D:\asp-projects\BaoCao1\backend\API.Common\obj\Debug\net8.0\TranAnhDung.API.Common.sourcelink.json
+D:\asp-projects\BaoCao1\backend\API.Common\obj\Debug\net8.0\TranAnhDung.API.Common.dll
+D:\asp-projects\BaoCao1\backend\API.Common\obj\Debug\net8.0\refint\TranAnhDung.API.Common.dll
+D:\asp-projects\BaoCao1\backend\API.Common\obj\Debug\net8.0\TranAnhDung.API.Common.pdb
+D:\asp-projects\BaoCao1\backend\API.Common\obj\Debug\net8.0\ref\TranAnhDung.API.Common.dll

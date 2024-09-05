@@ -1,0 +1,433 @@
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\appsettings.json
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\backend.exe
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\backend.deps.json
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\backend.runtimeconfig.json
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\backend.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\backend.pdb
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Azure.Core.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Azure.Identity.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Humanizer.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.CodeDom.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.backend.props
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.backend.props
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\scopedcss\bundle\backend.styles.css
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.csproj.Up2Date
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.dll
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\refint\backend.dll
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.pdb
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
+D:\Projects\asp-projects\Example07_2\backend\obj\Debug\net8.0\ref\backend.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\backend.exe
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\backend.deps.json
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\backend.runtimeconfig.json
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\backend.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\backend.pdb
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Humanizer.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.backend.props
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.backend.props
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\scopedcss\bundle\backend.styles.css
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\backend.csproj.Up2Date
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\backend.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\refint\backend.dll
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\backend.pdb
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
+C:\Users\DELL\Documents\Zalo Received Files\Example07_2\backend\obj\Debug\net8.0\ref\backend.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\appsettings.Development.json
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\appsettings.json
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\backend.exe
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\backend.deps.json
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\backend.runtimeconfig.json
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\backend.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\backend.pdb
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Azure.Core.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Azure.Identity.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Humanizer.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.CodeDom.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Memory.Data.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp-projects\Example07_2\backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cache
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\staticwebassets.build.json
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\staticwebassets.development.json
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.backend.props
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.backend.props
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\scopedcss\bundle\backend.styles.css
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.dll
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\refint\backend.dll
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.pdb
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\ref\backend.dll
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.sourcelink.json
+D:\asp-projects\Example07_2\backend\obj\Debug\net8.0\backend.csproj.Up2Date

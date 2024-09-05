@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TranAnhDung.API.props" />
+</Project>
